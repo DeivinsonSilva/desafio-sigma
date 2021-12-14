@@ -14,6 +14,6 @@ pip install -r requirements.txt
 Para rodar o servidor==> python manage.py runserver
 
 Acesso à página de administração do Django
-Usuário: usersigma
-Senha: usersigma
+<br>Usuário: usersigma
+<br>Senha: usersigma
 
